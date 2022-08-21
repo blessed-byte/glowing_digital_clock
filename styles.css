@@ -1,0 +1,25 @@
+body {
+    background: #000000;
+    color: snow;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 151px #0fa;
+
+
+}
+
+span {
+    font-size: 3rem;
+    margin-top: 45vh;
+    padding-right: 1rem;
+}
